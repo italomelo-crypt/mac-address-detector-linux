@@ -15,4 +15,4 @@ user:~$ sudo apt-get install -f
 
 
 
-**ALERT: This script is just for easier your detection, that action is possible to make on the terminal **
+**ALERT: This script is just for easier your detection, that action is possible to make on the terminal
