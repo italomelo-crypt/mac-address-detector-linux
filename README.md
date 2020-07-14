@@ -3,11 +3,13 @@ Detector of the MAC address, local network - PHP
 
 Depends: php-7.4-cli
     
-Install PHP in Ubuntu or Debian
+Install PHP in Ubuntu or Debian:
+
 user:~$ sudo apt-get install php7.4
 -----------------------------------
 
-dependencies error
+dependencies error:
+
 user:~$ sudo apt-get install -f 
 -------------------------------
 
