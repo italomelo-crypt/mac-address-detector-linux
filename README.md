@@ -1,7 +1,7 @@
 # mac-address-detector-linux
 Detector of the MAC address, local network - PHP
 
-Depends: php-7.4-cli
+Depends: php7.4-cli
     
 Install PHP in Ubuntu or Debian:
 
