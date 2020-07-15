@@ -29,7 +29,7 @@ for($i = 100; $i <= $range_limit; $i++) {  //iterator
 
     system('ping -c 2' . $receive_value, $retval);
 
-    if($i == 150){
+    if($i == $range_limit){
         system('arp -a');
     }
 }
