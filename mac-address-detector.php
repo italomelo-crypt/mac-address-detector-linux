@@ -25,7 +25,7 @@ $range_limit = "150"; //The Range was defined by DHCP provide of the ip for you
 //$i is the start of the range
 for($i = 100; $i <= $range_limit; $i++) {  //iterator
 
-    $receive_value = "\t ". $ip . $i . "\n"; //ip concatened with $i 
+    $receive_value = "\t ". $ip . $i . "\n"; //ip concatenated with $i 
 
     system('ping -c 2' . $receive_value, $retval);
 
